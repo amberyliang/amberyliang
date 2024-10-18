@@ -29,8 +29,11 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Managem
  
 #### 🌱 Things I am currently working on: 
 - MIS  Degree and Data Science Program  
-- Taking online courses about Data Science and Machine Learning
-- Data Analysis Intern in ASML!
+- 🗒️Smart Contract project developing!!!
+- 🖱️Computer Vision base on R language!!!
+- ⭐AI CUP Competition
+- 🤖Another machine learning project of marine plastic~~
+- 🧑‍💻Data Analysis Intern in ASML!
 <!-- - Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon* -->
  
 #### :muscle: Things I am challenging myself with:
