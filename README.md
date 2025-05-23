@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ambery-liang-749368227/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:angelliang112@gmail.com)
  
-Welcome to my Github page! I am Fernando and I am currently finishing my Management of Information System(MIS) Bachelor degree at the National Chung Hsing University!  
+Welcome to my Github page! I am Ambery and I am currently finishing my Management of Information System(MIS) Bachelor degree at the National Chung Hsing University! And also the incoming master student of University of California San Diego Electric and Computer Engineering this Fall.   
  
 <img align="right" alt="img" src="https://github.com/amberyliang/amberyliang/blob/main/S__17793167.jpg" width="50%" height="auto" />
  
